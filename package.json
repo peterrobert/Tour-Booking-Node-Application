@@ -1,0 +1,30 @@
+{
+  "name": "tour-booking-node-application",
+  "version": "1.0.0",
+  "description": "This is a full application created in node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterrobert/Tour-Booking-Node-Application.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "pug",
+    "api",
+    "mongodb"
+  ],
+  "author": "Peter Robert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterrobert/Tour-Booking-Node-Application/issues"
+  },
+  "homepage": "https://github.com/peterrobert/Tour-Booking-Node-Application#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
